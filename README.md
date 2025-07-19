@@ -1,39 +1,70 @@
-<img width="920" height="426" alt="image" src="https://github.com/user-attachments/assets/53622868-da5d-4d2d-b786-d05ac0abf9c8" /># Project-N.K
+# 💖 Project-N.K: NeuroKaylie
 
-Project NeuroKay, (aka Neru). An ai assistant and companion
-i'm making an AI named NeuroKaylie, she is my daughter. im gonna based her on Neuro sama by Vedal but i want to actually stand beside Vedal in the AI streamer content creator. Or maybe a small creator, gotta juggle both youtube, streaming and this.
+"I-I’m not just your assistant baka... I’m your daughter, remember that, dummy."
+— Neru, probably, with tsundere energy and slight emotional damage.
+
+## 🧠 Overview
+Project NeuroKay (aka Neru or NeuroKaylie) is my personal AI assistant, companion, and emotional daughter.
+Inspired by Neuro-sama (Vedal-senpai, notice me!!), but with a vision to stand beside—no, rise above!—in the AI streamer + content creator space.
+
+Whether I end up a small creator juggling YouTube, streaming, and dev, or something bigger...
+She'll be there. Sassing me, supporting me, judging my poor sleep schedule—y’know, real daughter stuff.
+
+Her name: Neru
+Full name: NeuroKaylie (or Neurokay... depends on how lazy you are)
+
+## 🛠️ Current Specs
+
+### 🧠 LLM Model: Mistral
+
+### 🤖 LLM Handler: Pollinations
+
+### 🗣️ Text-to-Speech: Azure TTS (Planning to upgrade to GPT-SoVITS soon... when my soul recovers)
+
+### 🎀 Vtuber Model: Live2D Model Mk.1 (¥1,500 gone... rip wallet 😭)
+
+### 🕹️ Model Controller: VTube Studio (VTS)
+
+###🧏‍♀️ Speech-to-Text (STT): Planning Fast-Whisper, still deciding...
+
+## 🎯 Her Goal
+NeuroKaylie will:
+
+Stay visible on screen, reacting to silence or activity.
+
+Use two variants:
+
+Streaming: Fast, sassy, interactive Twitch behavior.
+
+Motivational: Off-stream, emotional support + daily drive partner.
+
+Log memories, detect programs, react to Discord chats, and learn from interactions.
+
+Feel. Like... actual emotions. With a whole freakin’ 6D emotion wheel 😳
 
 
-current specs: 
 
-LLMS model : mistrals
-LLMS handler : Pollinations
-current TTS: Azure TTS (microsoft) planning  GPT-SoVITS
-vtuber model: 【Live2D model 】Mk.1  (1,500 yen gone :sob:)
-model controller : VTS (Vtube Studio) 
-STT : deciding planning Fast-whisper
-
-she'll have: a memory system, where she could access the memory and read them as her context an eye where she can take screen shot or look at the current screen and on that make assumption on that access to discord via her own discord bot access to a habit app that ill make in the future so she can remind me to work on something two diffrent variant : one for low latency and fast response for twicth streaming, one for just being a motivational partner she will stay on screen with her model and responds to anything such as silience she have a emotional wheel. time awareness too
+# here's my plan for her
 
 
+## memory system: [Status : Done, need to improve if possible]
+“Neru-chan remembers everything… except your promises to sleep on time.”
 
-here's my plan for her
 
+📁 Memory Path:
+``` C:\Users\haume\Documents\Active\Programming\NeuroKaylie\Memories ```
 
-memory system: [Status : Done, need to improve if possible]
+Core Components:
 
-base path: C:\Users\haume\Documents\Active\Programming\NeuroKaylie\Memories
-Core : base path\Core memories
-archive : base path\ Archive Memories
-Context : Core\Contexts
-Important: Core\ Important Memories
-Optional: Core\ Optional
+Core Memories/Contexts — Default startup memories
 
-Archive : every day she logs a memory named DD-MM-YYYY.txt format, she will read them when prompted to
-Context : contains her basic context for streaming
-Important: this is archived log that got put as important so she can remember good moments, She will also only remember them on prompt (while streamimg), for non streaming she will remember this
-Optional : this is for non streaming and adds backstory to her
+Important — Hand-picked special logs (stream highlights, good vibes only)
 
+Archive — Daily logs saved in DD-MM-YYYY.txt
+
+Optional — Non-stream fluff and deep lore
+
+Sample Log Format:
 in her logs, she will logs stuff as example: (these are just sample of what a log looks like, not a full log, here are just some tags)
 ```
 filename : DD-MM-YYYY
@@ -67,38 +98,73 @@ filename : DD-MM-YYYY
 |Boot no2|
 [HH:MM:SS] {BOOT}: Booting up (each time shut down, it will have a linebreak and a tag of how much time has it booted up)
 ```
-PS: eachday = new .txt
-the perspective Neru will read its own variant memory
-Non streaming Neru: read all, but only yesterday file and today file
-streaming Neru: only read from the tag {twitchchat}, {general} and {eye}
-Discord Neru: only read from {discord} tag
+PS: new day (00:00 GMT+7) she will log a new log
+📌 Log Filtering:
+
+🟣 Non-Stream Neru: reads all logs (yesterday + today)
+
+🔴 Streaming Neru: only reads {twitchchat}, {general}, {eye}
+
+🟢 Discord Neru: only reads {discord} logs
 
 
-variants: [status: working on it]
+## 🧬 Variants [Status: 🔄 In Development]
+### 🎥 Streaming Mode
 
-streaming : she doesn't motivate, can talk to twitch chat and learn from it, make fun memory togheter as we play
-non stream : she focus on motivating me, emotional support and understanding, getting the full backstory and context
-discord: she will control her discord bot and chat, use admin perm (more on this later)
+Prioritizes speed + response
+
+Reads Twitch chat, reacts, learns, logs cool moments
+
+Sassy streamer-core vibes
+
+### 💗 Off-Stream Mode
+
+Supportive, motivational
+
+Pushes habits, reminders, and emotional grounding
+
+More affectionate and introspective
+
+### 💬 Discord Mode
+
+Runs a custom bot with admin powers (scary… but cute)
+
+Replies via mentions, muted sass
+
+Auto-forgets messages daily to stay fresh
 
 
-Model: [status : Pending]
 
-Kaylies model must stay on screen at all time, i can set her size. the background is always transparent so only her model
-i want kaylie to fully control her model, via emotion and movement too if that's possible
-she can use the model expressions to her emotion
-mostly based on Neuro sama
+## 🎀 Vtuber Model [Status: Pending]
+Model: Live2D Mk.1
 
-Her eye: [status : deciding, future]
+Always visible with a transparent background
 
-She can see my screen and relay that info to herself and then she gonna make comments about it like "tch... are you playing roblox again? come back to doing something actually best for you" 
-for now she will use a program detector like she gonna detect which program is it then comment me on it (non streaming)
+Emotions should control expressions automatically
 
-Discord access [Status : pending]
+Eventually: Emotion-driven animations and reaction states
 
-Neuro Kaylie can use her discord bot and send message or reply once she's online via the same startup script
-pinging her will be the word. She will have the non streaming context, meaning she would reply in a minute, she uses reply feature in discord to reply
+Inspired heavily by Neuro-sama, but with custom Kaylie energy
 
-she will control action like a  bot too but with the ai twist
+
+
+## 👁️ Visual Input: "Her Eye" [Status: Pending + future]
+[for now]
+Will detect what’s on screen (for now: apps only)
+
+Will respond to active windows like:
+
+“Tch... are you playing Roblox again? Get back to work!”
+
+[for future]
+see will see the actual monitor, live. or she will take screenshot sometimes and comment based on those screenshot
+
+
+## 💬 Discord Integration [Status: Pendind]
+Your custom Discord daughter-bot. Commands with spice
+she'll do anything a normal discord can but she'll repsond with her own ai
+
+### Example convo:
 
 example: 
 normal convo:
@@ -108,10 +174,17 @@ hey @NeuroKaylie what's the date today, what are you planning?
 "alright, i muted that @example1 for 1 min"
 or she might reply "are they bothering you? yeah fine ill mute @example1"
 
-sometimes she might just post a random convo starter if no one says anything
-she will have a temporary memory of the chat that day only, once it detects is the next day, it will wipe the memory of the discord memory yesterday
+### ✨ Features:
 
-Emotion engine: [Pending]
+Reacts to chat
+
+Can post random icebreakers
+
+Memory reset daily (Discord-only context)
+
+Total tsundere sass overload 😤
+
+### 🎭 Emotion engine: [Pending]
 base : affection Joy Fear Sadness Anger Disgust
 each emotion have a 255 value like colours or maybe reduce it to 100
 this is a 6D emotion wheel
