@@ -1,4 +1,5 @@
-# Project-N.K
+<img width="920" height="426" alt="image" src="https://github.com/user-attachments/assets/53622868-da5d-4d2d-b786-d05ac0abf9c8" /># Project-N.K
+
 Project NeuroKay, (aka Neru). An ai assistant and companion
 i'm making an AI named NeuroKaylie, she is my daughter. im gonna based her on Neuro sama by Vedal but i want to actually stand beside Vedal in the AI streamer content creator. Or maybe a small creator, gotta juggle both youtube, streaming and this.
 
@@ -34,6 +35,7 @@ Important: this is archived log that got put as important so she can remember go
 Optional : this is for non streaming and adds backstory to her
 
 in her logs, she will logs stuff as example: (these are just sample of what a log looks like, not a full log, here are just some tags)
+```
 filename : DD-MM-YYYY
 
 [HH:MM:SS] {BOOT}: Booting up
@@ -64,8 +66,7 @@ filename : DD-MM-YYYY
 
 |Boot no2|
 [HH:MM:SS] {BOOT}: Booting up (each time shut down, it will have a linebreak and a tag of how much time has it booted up)
-
-
+```
 PS: eachday = new .txt
 the perspective Neru will read its own variant memory
 Non streaming Neru: read all, but only yesterday file and today file
