@@ -25,7 +25,7 @@ Full name: NeuroKaylie (or Neurokay... depends on how lazy you are)
 
 ### 🕹️ Model Controller: VTube Studio (VTS)
 
-###🧏‍♀️ Speech-to-Text (STT): Planning Fast-Whisper, still deciding...
+### 🧏‍♀️ Speech-to-Text (STT): Planning Fast-Whisper, still deciding...
 
 ## 🎯 Her Goal
 NeuroKaylie will:
