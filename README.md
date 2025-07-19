@@ -168,11 +168,13 @@ she'll do anything a normal discord can but she'll repsond with her own ai
 
 example: 
 normal convo:
+```
 hey @NeuroKaylie what's the date today, what are you planning?
 "hmph you asked such a simple thing as date? today its 8/7 in the year 2025... and what do you mean what i am planning?"
 @NeuroKaylie mute @example1 for 1 min
 "alright, i muted that @example1 for 1 min"
 or she might reply "are they bothering you? yeah fine ill mute @example1"
+```
 
 ### ✨ Features:
 
