@@ -1,0 +1,36 @@
+2025-07-12 15:23:13,436 [DEBUG]: [CHECKPOINT] 00  |  script start
+2025-07-12 15:23:13,598 [DEBUG]: [CHECKPOINT] 01  |  SDK imported – version 1.44.0
+2025-07-12 15:23:13,599 [DEBUG]: [CHECKPOINT] 02  |  SpeechConfig created
+2025-07-12 15:23:13,599 [DEBUG]: [CHECKPOINT] 03  |  AudioOutputConfig ready
+2025-07-12 15:23:13,600 [DEBUG]: [CHECKPOINT] 04  |  SpeechSynthesizer instantiated
+2025-07-12 15:23:13,601 [DEBUG]: [CHECKPOINT] 05  |  Calling speak_text_async()
+2025-07-12 15:23:15,092 [DEBUG]: [CHECKPOINT] 06  |  speak_text_async returned
+2025-07-12 15:23:15,093 [ERROR]: TTS canceled: CancellationReason.Error  |  Details: WebSocket upgrade failed: Authentication error (401). Please check subscription information and region name. USP state: Sending. Received audio size: 0 bytes.
+2025-07-12 15:23:15,104 [DEBUG]: [CHECKPOINT] 08  |  script end (no fatal error)
+2025-07-12 15:24:37,270 [DEBUG]: [CHECKPOINT] 00  |  script start
+2025-07-12 15:24:37,436 [DEBUG]: [CHECKPOINT] 01  |  SDK imported – version 1.44.0
+2025-07-12 15:24:37,437 [DEBUG]: [CHECKPOINT] 02  |  SpeechConfig created
+2025-07-12 15:24:37,437 [DEBUG]: [CHECKPOINT] 03  |  AudioOutputConfig ready
+2025-07-12 15:24:37,438 [DEBUG]: [CHECKPOINT] 04  |  SpeechSynthesizer instantiated
+2025-07-12 15:24:37,439 [DEBUG]: [CHECKPOINT] 05  |  Calling speak_text_async()
+2025-07-12 15:24:39,631 [DEBUG]: [CHECKPOINT] 06  |  speak_text_async returned
+2025-07-12 15:24:39,631 [DEBUG]: [CHECKPOINT] 07  |  SUCCESS – file saved: neru_test.wav
+2025-07-12 15:24:39,632 [DEBUG]: [CHECKPOINT] 08  |  script end (no fatal error)
+2025-07-12 15:26:26,720 [DEBUG]: [CHECKPOINT] 00  |  script start
+2025-07-12 15:26:26,901 [DEBUG]: [CHECKPOINT] 01  |  SDK imported – version 1.44.0
+2025-07-12 15:26:26,902 [DEBUG]: [CHECKPOINT] 02  |  SpeechConfig created
+2025-07-12 15:26:26,902 [DEBUG]: [CHECKPOINT] 03  |  AudioOutputConfig ready
+2025-07-12 15:26:26,904 [DEBUG]: [CHECKPOINT] 04  |  SpeechSynthesizer instantiated
+2025-07-12 15:26:26,904 [DEBUG]: [CHECKPOINT] 05  |  Calling speak_text_async()
+2025-07-12 15:26:29,001 [DEBUG]: [CHECKPOINT] 06  |  speak_text_async returned
+2025-07-12 15:26:29,001 [DEBUG]: [CHECKPOINT] 07  |  SUCCESS – file saved: neru_test.wav
+2025-07-12 15:26:29,001 [DEBUG]: [CHECKPOINT] 08  |  script end (no fatal error)
+2025-07-12 15:30:52,334 [DEBUG]: [CHECKPOINT] 00  |  script start
+2025-07-12 15:30:52,534 [DEBUG]: [CHECKPOINT] 01  |  SDK imported – version 1.44.0
+2025-07-12 15:30:52,534 [DEBUG]: [CHECKPOINT] 02  |  SpeechConfig created
+2025-07-12 15:30:52,535 [DEBUG]: [CHECKPOINT] 03  |  AudioOutputConfig ready
+2025-07-12 15:30:52,536 [DEBUG]: [CHECKPOINT] 04  |  SpeechSynthesizer instantiated
+2025-07-12 15:30:52,536 [DEBUG]: [CHECKPOINT] 05  |  Calling speak_text_async()
+2025-07-12 15:30:54,743 [DEBUG]: [CHECKPOINT] 06  |  speak_text_async returned
+2025-07-12 15:30:54,743 [DEBUG]: [CHECKPOINT] 07  |  SUCCESS – file saved: C:\Users\haume\Documents\Active\Programming\NeuroKaylie\scripts\active\New folder\neru_test.wav
+2025-07-12 15:30:54,744 [DEBUG]: [CHECKPOINT] 08  |  script end (no fatal error)

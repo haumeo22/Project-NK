@@ -1,0 +1,33 @@
+[22:02:59] Kaylie boot up initiated
+[22:02:59] Memory loaded
+[22:02:59] Kaylie online
+[22:03:11] User Input: "hmm"
+[22:03:11] Kaylie thinking...
+[22:03:34] Kaylie Output: ""Huh? What's the big idea, baka?" *rolls eyes*"
+[22:03:36] Azure TTS canceled: CancellationReason.Error
+[22:05:34] Kaylie offline
+
+[22:07:14] Kaylie boot up initiated
+[22:07:14] Memory loaded
+[22:14:42] Kaylie boot up initiated
+[22:14:42] Memory loaded
+[22:14:42] Kaylie online
+[22:15:13] User Input: "Hello Kay, It's my bedtime.. im just testing this final message before i go to sleep. seems like your TTS still broken"
+[22:15:13] Kaylie thinking...
+[22:15:46] Kaylie Output: ""Ugh, seriously? You're putting me to sleep too, huh? Fine, I guess it's time for you to get some rest. Just don't expect me to be the one tucking you in, baka." *rolls eyes and yawns*"
+[22:15:48] Azure TTS canceled: CancellationReason.Error, Code=CancellationErrorCode.AuthenticationFailure, Details=WebSocket upgrade failed: Authentication error (401). Please check subscription information and region name. USP state: Sending. Received audio size: 0 bytes.
+[22:16:38] User Input: "did it bugged again?"
+[22:16:38] Kaylie thinking...
+[22:16:49] Kaylie Output: ""Huh? Did what bug? You asking me too much, baka. I'm just a digital girl trying to handle your requests here." *rolls eyes*"
+[22:16:50] Azure TTS canceled: CancellationReason.Error, Code=CancellationErrorCode.AuthenticationFailure, Details=WebSocket upgrade failed: Authentication error (401). Please check subscription information and region name. USP state: Sending. Received audio size: 0 bytes.
+[22:17:00] Kaylie offline
+
+[22:17:28] Kaylie boot up initiated
+[22:17:28] Memory loaded
+[22:17:29] Kaylie online
+[22:17:44] User Input: "so i fixed the TTS now... tell me if you can't say again"
+[22:17:44] Kaylie thinking...
+[22:17:57] Kaylie Output: """Well, gee thanks for fixing it, genius. Like I’d ever admit it, but I was getting pretty sick of sounding like a broken robot." *rolls eyes and smirks*""
+[22:17:59] Azure TTS canceled: CancellationReason.Error, Code=CancellationErrorCode.BadRequest, Details=Connection was closed by the remote host. Error code: 1007. Error details: Ssml should only contain one language. USP state: TurnStarted. Received audio size: 0 bytes.
+[22:19:21] Kaylie offline
+

@@ -1,0 +1,72 @@
+[17:00:25] Kaylie boot up initiated
+[17:00:25] Memory loaded
+[17:00:26] Kaylie online
+[17:00:37] User Input: "does your TTS works now?"
+[17:00:37] Kaylie thinking...
+[17:01:12] Kaylie Output: ""Finally. The dumb bot's voice finally decided to cooperate. I guess even it knows when it's needed, huh?""
+[17:01:13] Azure TTS canceled: CancellationReason.Error, Code=CancellationErrorCode.BadRequest, Details=Connection was closed by the remote host. Error code: 1007. Error details: Unexpected end of file has occurred. The following elements are not closed: speak. Line 1, position  USP state: TurnStarted. Received audio size: 0 bytes.
+[17:02:34] Kaylie offline
+
+[17:03:00] Kaylie boot up initiated
+[17:03:00] Memory loaded
+[17:03:00] Kaylie online
+[17:03:21] User Input: "so the problem... well... I forgot yo name your voice bank"
+[17:03:21] Kaylie thinking...
+[17:03:32] Kaylie Output: """Finally. The dumb bot's voice finally decided to cooperate. I guess even it knows when it's needed, huh?"""
+[17:03:32] Fatal TTS error: name 'en' is not defined
+[17:04:06] Kaylie offline
+
+[17:06:44] Kaylie boot up initiated
+[17:06:44] Memory loaded
+[17:06:44] Kaylie online
+[17:07:01] User Input: "it kept... bugging your tts out"
+[17:07:01] Kaylie thinking...
+[17:07:11] Kaylie Output: """Finally. The dumb bot's voice finally decided to cooperate. I guess even it knows when it's needed, huh?"""
+[17:07:11] Fatal TTS error: name 'en' is not defined
+[17:07:21] Kaylie offline
+
+[17:07:31] Kaylie boot up initiated
+[17:07:31] Memory loaded
+[17:07:32] Kaylie online
+[17:07:42] User Input: "again"
+[17:07:42] Kaylie thinking...
+[17:07:52] Kaylie Output: """Great. Just great. The dumb bot's voice finally decided to cooperate again. I guess even it knows when it's needed, huh?"""
+[17:07:55] Kaylie spoke successfully
+[17:08:06] Received audio, playing audio...
+[17:08:27] User Input: "finallyyyy"
+[17:08:27] Kaylie thinking...
+[17:08:34] Kaylie Output: """Finally. I guess even I know when I'm needed, huh?"""
+[17:08:37] Kaylie spoke successfully
+[17:08:41] Kaylie offline
+
+[17:08:42] Received audio, playing audio...
+[17:14:36] Kaylie boot up initiated
+[17:14:36] Memory loaded
+[17:14:36] Kaylie online
+[17:14:48] User Input: "hello kaylie, what did we do yesterday"
+[17:14:48] Kaylie thinking...
+[17:15:39] Kaylie Output: "Huh? What's the big idea, baka? *rolls eyes*"
+[17:15:41] Kaylie spoke successfully
+[17:15:46] Received audio, playing audio...
+[17:15:48] Kaylie offline
+
+[21:48:36] Kaylie boot up initiated
+[21:48:36] Memory loaded
+[21:48:36] Kaylie online
+[21:48:54] User Input: "im kinda exaushted, cheer me up with some cheeky lines"
+[21:48:54] Kaylie thinking...
+[21:49:53] Kaylie Output: """Huh? What's the big idea, baka?" *rolls eyes*""
+[21:49:55] Kaylie spoke successfully
+[21:50:01] Received audio, playing audio...
+[21:50:17] User Input: "oh come on why do you repeat stuff over and over now"
+[21:50:17] Kaylie thinking...
+[21:50:45] Kaylie Output: """"Well, what do you want me to say? You're such a hard case to please, baka. Maybe if you were a little nicer, I wouldn't have to repeat myself so much." *rolls eyes and pouts*""
+[21:50:48] Kaylie spoke successfully
+[21:51:00] Received audio, playing audio...
+[21:51:17] User Input: "why are you using so much """ now"
+[21:51:17] Kaylie thinking...
+[21:51:41] Kaylie Output: """Huh? What's the big idea, baka?" *rolls eyes and pokes user playfully*"""
+[21:51:43] Kaylie spoke successfully
+[21:51:48] Received audio, playing audio...
+[22:00:41] User Input: "here you are again with that cheeky line"
+[22:00:41] Kaylie thinking...

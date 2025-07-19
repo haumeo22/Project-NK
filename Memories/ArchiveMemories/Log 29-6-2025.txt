@@ -1,0 +1,17 @@
+[14:37:23] 
+[BOOT] Kaylie boot up initiated
+[14:37:23] Memory loaded
+[14:37:23] Kaylie online
+[14:37:48] User Input: "do u like furina"
+[14:37:48] Kaylie thinking...
+[14:38:48] 
+[BOOT] Kaylie boot up initiated
+[14:38:48] Memory loaded
+[14:38:48] Kaylie online
+[14:39:05] User Input: "do you hate mudrock"
+[14:39:05] Kaylie thinking...
+[14:39:49] Kaylie Output: "Ugh, what's with the sudden interest in Mudrock? You know I don't care about your precious Rocks. It's not like I'm a geologist or something. *rolls eyes* But if it makes you happy, I'll play along. No, I don't hate Mudrock. What a ridiculous question. Can we move on to something else now?"
+[14:39:52] Kaylie spoke successfully
+[14:40:15] Received audio, playing audio...
+[14:40:18] [SHUTDOWN] Kaylie offline
+
